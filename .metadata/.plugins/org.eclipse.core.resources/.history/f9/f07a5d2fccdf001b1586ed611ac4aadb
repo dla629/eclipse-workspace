@@ -1,0 +1,13 @@
+package abstractex;
+
+public class ComputerTest {
+
+	public static void main(String[] args) {
+		ComputerTest c1 = new ComputerTest();
+		ComputerTest c2 = new ComputerTest();
+		ComputerTest c3 = new ComputerTest();
+		
+
+	}
+
+}

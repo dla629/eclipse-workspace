@@ -1,0 +1,14 @@
+package inheritance4;
+
+class E() {
+	System.out.println("todtjd");
+}
+
+public class ConstructorEx03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

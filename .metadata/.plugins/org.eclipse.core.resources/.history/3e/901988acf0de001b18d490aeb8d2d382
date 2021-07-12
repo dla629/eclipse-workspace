@@ -1,0 +1,14 @@
+package inheritance2;
+
+public class Student extends Person{
+	
+	public void set() {
+		age = 30;
+		name = "юсюн©У";
+		height = 183;
+		setWeight(99);
+		
+	
+	}
+
+}

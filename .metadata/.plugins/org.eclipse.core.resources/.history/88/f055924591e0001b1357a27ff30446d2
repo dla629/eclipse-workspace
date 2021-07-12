@@ -1,0 +1,36 @@
+package test;
+
+public class Avante extends Car {
+	
+	public Avante() {
+		
+	}
+
+	@Override
+	public void drive() {
+		System.out.println("Avante 달립니다.");
+		
+	}
+
+	@Override
+	public void stop() {
+		System.out.println("Avante 멈춥니다.");
+		
+	}
+
+	@Override
+	public void start() {
+		System.out.println("Avante 시동을 켭니다.");
+		
+	}
+
+	@Override
+	public void turnOff() {
+		System.out.println("Avante 시동을 끕니다.");
+		
+	}
+	public static void main(String[] args) {
+		System.out.println(run() + "Avante");
+	}
+
+}

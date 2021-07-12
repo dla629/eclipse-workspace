@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+public class Main {
+
+	
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		String str[] = {"가위", "바위", "보"};
+		String UserSelect, ComSelect;
+		int n; //컴퓨터가 내는 것
+		System.out.println("컴퓨터와 가위 바위 보 게임을 합니다.");
+		do {
+			System.out.print("가위 바위 보! >> ");
+			UserSelect = sc.next();
+			
+			if(UserSelect.equals("그만")) break;
+			n = (int)(Math.random()*3);
+			ComSelect=str[n];
+		
+		}while(true);
+		System.out.println("게임을 종료합니다...");
+		sc.close();
+	}
+		
+		
+}

@@ -1,0 +1,14 @@
+
+public class Main {
+
+	import java.util.Scanner;
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		String str[] = {"가위", "바위", "보"};
+		String UserSelect, ComSelect;
+		int n; //컴퓨터가 내는 것
+		System.out.println("컴퓨터와 가위 바위 보 게임을 합니다.");
+	}
+}

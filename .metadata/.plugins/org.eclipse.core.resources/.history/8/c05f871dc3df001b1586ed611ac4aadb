@@ -1,0 +1,9 @@
+package abstractex;
+
+public abstract class Calculator {
+	
+	public abstract add(int a, int b);
+	public abstract subtract(int a, int b);
+	public abstract average(int[] a);
+
+}

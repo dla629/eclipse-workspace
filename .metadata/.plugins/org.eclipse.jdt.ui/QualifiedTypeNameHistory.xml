@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="test.Person"/>
+    <fullyQualifiedTypeName name="cooperation.Star"/>
+    <fullyQualifiedTypeName name="array.Book"/>
+    <fullyQualifiedTypeName name="array.ArratListTest"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="inheritance.Customer"/>
+    <fullyQualifiedTypeName name="inheritance.VIPCustomer"/>
+    <fullyQualifiedTypeName name="polymorphism.VIPCustomer"/>
+    <fullyQualifiedTypeName name="polymorphism.Customer"/>
+    <fullyQualifiedTypeName name="witharraylist.GoldCustomer"/>
+    <fullyQualifiedTypeName name="witharraylist.VIPCustomer"/>
+    <fullyQualifiedTypeName name="witharraylist.Customer"/>
+    <fullyQualifiedTypeName name="template.ManualCar"/>
+    <fullyQualifiedTypeName name="gameLevel.BeginnerLevel"/>
+    <fullyQualifiedTypeName name="gameLevel.MasterLevel"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="test.Avante"/>
+    <fullyQualifiedTypeName name="test.Grandeur"/>
+    <fullyQualifiedTypeName name="test.Genesis"/>
+    <fullyQualifiedTypeName name="gameLevel.AdvencdLevel"/>
+</qualifiedTypeNameHistroy>

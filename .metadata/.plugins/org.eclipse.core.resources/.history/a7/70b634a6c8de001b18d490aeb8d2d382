@@ -1,0 +1,16 @@
+package upcasting;
+
+public class UpcastingEx {
+
+	public static void main(String[] args) {
+		
+		Person p;
+		Student s = new Student("юсюн©У");
+		
+		p = s;
+		
+		System.out.println(p.name);
+
+	}
+
+}

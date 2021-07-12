@@ -1,0 +1,18 @@
+package inheritance4;
+
+class E
+	public E() {
+	System.out.println("todtjd");
+}
+	public E(int x) {
+		System.out.println("매개변수 생성자E");
+	}
+
+public class ConstructorEx03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

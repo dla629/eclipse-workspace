@@ -1,0 +1,9 @@
+package test;
+
+public class Avante extends Car {
+	
+	public Avante() {
+		
+	}
+
+}

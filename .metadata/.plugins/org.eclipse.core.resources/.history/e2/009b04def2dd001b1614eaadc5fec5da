@@ -1,0 +1,22 @@
+package inheritance;
+
+public class CustomerTest1 {
+
+	public static void main(String[] args) {
+		
+		Customer ctlee = new Customer();
+		ctlee.customerID(10010);
+		ctlee.customerName("이순신");
+		ctlee.bonusPoint(1000);
+		System.out.println(ctlee.showCustomerInfo());
+		
+		VIPCustomer ctkim = new VIPCustomer();
+		ctkim.setCustomerID = 10020;
+		ctkim.setCustomerName = "김유신";
+		ctkim.bonusPoint = 10000;
+		System.out.println(ctkim.showCustomerInfo());
+		
+
+	}
+
+}
